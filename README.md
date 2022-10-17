@@ -4,7 +4,7 @@
 
 ------
 <p align="center">
-    <em>amis-admin-theme-editor - Theme-Editor for fastapi-amis-admin</em>
+    <em>amis-admin-theme-editor - Theme-Editor for <a href="https://github.com/amisadmin/fastapi_amis_admin" target="_blank">fastapi-amis-admin</a></em>
 <br>
     Includes definition for cxd, antd, ang and dark Theme of amis.
 <br>
