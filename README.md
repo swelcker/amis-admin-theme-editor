@@ -29,6 +29,11 @@
 - **Preview View**: After page refresh (currently) shows you most formitem types to check the changes
 - Todo: Translations to DE, CN
 
+## Install
+```bash
+    pip install amis-admin-theme-editor
+```
+
 
 Usage example:
 
