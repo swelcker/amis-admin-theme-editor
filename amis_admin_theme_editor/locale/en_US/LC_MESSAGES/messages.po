@@ -1,0 +1,56 @@
+# Translations template for amis-admin-theme-editor.
+# Copyright (C) 2022 2022 u2d.ai
+# This file is distributed under the same license as the
+# amis-admin-theme-editor project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: amis-admin-theme-editor 0.0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-10-17 15:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: amis_admin_theme_editor/admin.py:35
+msgid "Theme Editor"
+msgstr ""
+
+#: amis_admin_theme_editor/admin.py:47
+msgid "Apply changes"
+msgstr ""
+
+#: amis_admin_theme_editor/editor.py:22
+msgid "Preview"
+msgstr ""
+
+#: amis_admin_theme_editor/editor.py:23
+msgid "Basic Settings"
+msgstr ""
+
+#: amis_admin_theme_editor/editor.py:26 amis_admin_theme_editor/model.py:9
+msgid "Other Variables"
+msgstr ""
+
+#: amis_admin_theme_editor/editor.py:28
+msgid "Customize CSS"
+msgstr ""
+
+#: amis_admin_theme_editor/model.py:8
+msgid "Theme Variables"
+msgstr ""
+
+#: amis_admin_theme_editor/model.py:10
+msgid "CSS"
+msgstr ""
+
+#: amis_admin_theme_editor/model.py:11
+msgid "Base Theme"
+msgstr ""
+

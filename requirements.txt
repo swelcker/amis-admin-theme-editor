@@ -1,0 +1,4 @@
+# General Dependencies
+pydantic[email,dotenv]~=1.9.2 # Data validation and settings management using python type hints
+fastapi-amis-admin>=0.2.4,<0.3.0 # Core FastAPI-Amis-Admin
+

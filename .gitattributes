@@ -1,0 +1,6 @@
+dist/* linguist-documentation
+docs/* linguist-documentation
+dist_docs/* linguist-documentation
+*.html linguist-detectable=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false

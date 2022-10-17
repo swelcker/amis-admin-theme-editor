@@ -1,0 +1,16 @@
+# Development/Deployment related Libraries
+autoflake~=1.6.1 # Removes unused imports and unused variables
+black~=22.8.0 # Code formatter.
+flake8~=5.0.4 # modular source code checker: pep8 pyflakes and co
+isort~=5.10.1 # library to sort Python imports.
+mypy~=0.981 # Optional static typing for Python
+setuptools~=65.3.0 # Easily download, build, install, upgrade, and uninstall Python packages
+twine~=4.0.1 # Collection of utilities for publishing packages on PyPI
+multidict~=6.0.2 # Multidict is dict-like collection of key-value pairs where key might be occurred more than once in the container.
+psutil~=5.9.2 # Cross-platform lib for process and system monitoring in Python.
+# SQL/No-SQL/DB related Dependencies
+aiosqlite~=0.17.0 # asyncio bridge to the standard sqlite3 module
+pybabel
+# Uvicorn related Dependencies
+uvicorn~=0.18.3 # The lightning-fast ASGI server.
+
