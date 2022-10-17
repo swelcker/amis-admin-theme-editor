@@ -50,8 +50,10 @@ class MySettings(Settings):
     To add cssVars and/or css style to the amis render, we need to apply them for each page.
     Which means you need to override: `async def get_page(self, request: Request) -> Page`
 
-    Easiest way ist to add your customTheme instance to the site.settings object by override the Settings class and add a
+    Easiest way is to add your customTheme instance to the site.settings object by override the Settings class and add a
     field which holds the current theme-editor settings.
+    
+    This way you can refernce it in any admin or form by self.site.settings.custom_theme
     """
     custom_theme: CustomTheme = CustomTheme()
 
