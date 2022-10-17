@@ -16,11 +16,6 @@
   </a>
 </p>
 
-------
-
-**Documentation**: <a href="https://amis-admin-theme-editor.u2d.ai/" target="_blank">amis-admin-theme-editor Documentation (https://amis-admin-theme-editor.u2d.ai/)</a>
-
-------
 
 ## Features
 - **Supported Themes/Styles**: cxd, antd, ang and dark.
