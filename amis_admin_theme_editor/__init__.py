@@ -6,7 +6,7 @@ from fastapi_amis_admin import i18n
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-version = "0.0.1"
+version = "0.0.2"
 __author__ = "Stefan Welcker"
 __copyright__ = "Copyright 2022, U2D.ai"
 __license__ = "MIT"
