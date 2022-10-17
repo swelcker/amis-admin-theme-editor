@@ -8,10 +8,10 @@
 <br>
     Includes definition for cxd, antd, ang and dark Theme of amis.
 <br>
-  <a href="https://pypi.org/amis-admin-theme-editor/amis-admin-theme-editor" target="_blank">
+  <a href="https://pypi.org/project/amis-admin-theme-editor" target="_blank">
       <img src="https://img.shields.io/pypi/v/amis-admin-theme-editor?color=%2334D058&label=pypi%20package" alt="Package version">
   </a>
-  <a href="https://pypi.org/amis-admin-theme-editor/amis-admin-theme-editor" target="_blank">
+  <a href="https://pypi.org/project/amis-admin-theme-editor" target="_blank">
       <img src="https://img.shields.io/pypi/pyversions/amis-admin-theme-editor.svg?color=%2334D058" alt="Supported Python versions">
   </a>
 </p>
