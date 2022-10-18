@@ -4,7 +4,6 @@
 # amis-admin-theme-editor project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: amis-admin-theme-editor 0.0.1\n"
@@ -20,37 +19,37 @@ msgstr ""
 
 #: amis_admin_theme_editor/admin.py:35
 msgid "Theme Editor"
-msgstr ""
+msgstr "主题编辑器"
 
 #: amis_admin_theme_editor/admin.py:47
 msgid "Apply changes"
-msgstr ""
+msgstr "应用更改"
 
 #: amis_admin_theme_editor/editor.py:22
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 #: amis_admin_theme_editor/editor.py:23
 msgid "Basic Settings"
-msgstr ""
+msgstr "基本设置"
 
 #: amis_admin_theme_editor/editor.py:26 amis_admin_theme_editor/model.py:9
 msgid "Other Variables"
-msgstr ""
+msgstr "其他变量"
 
 #: amis_admin_theme_editor/editor.py:28
 msgid "Customize CSS"
-msgstr ""
+msgstr "自定义样式"
 
 #: amis_admin_theme_editor/model.py:8
 msgid "Theme Variables"
-msgstr ""
+msgstr "主题变量"
 
 #: amis_admin_theme_editor/model.py:10
 msgid "CSS"
-msgstr ""
+msgstr "样式"
 
 #: amis_admin_theme_editor/model.py:11
 msgid "Base Theme"
-msgstr ""
+msgstr "基础主题"
 
