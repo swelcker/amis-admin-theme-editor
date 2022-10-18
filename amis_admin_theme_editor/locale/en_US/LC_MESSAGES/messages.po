@@ -20,37 +20,37 @@ msgstr ""
 
 #: amis_admin_theme_editor/admin.py:35
 msgid "Theme Editor"
-msgstr ""
+msgstr "Theme Editor"
 
 #: amis_admin_theme_editor/admin.py:47
 msgid "Apply changes"
-msgstr ""
+msgstr "Apply changes"
 
 #: amis_admin_theme_editor/editor.py:22
 msgid "Preview"
-msgstr ""
+msgstr "Preview"
 
 #: amis_admin_theme_editor/editor.py:23
 msgid "Basic Settings"
-msgstr ""
+msgstr "Basic Settings"
 
 #: amis_admin_theme_editor/editor.py:26 amis_admin_theme_editor/model.py:9
 msgid "Other Variables"
-msgstr ""
+msgstr "Other Variables"
 
 #: amis_admin_theme_editor/editor.py:28
 msgid "Customize CSS"
-msgstr ""
+msgstr "Customize CSS"
 
 #: amis_admin_theme_editor/model.py:8
 msgid "Theme Variables"
-msgstr ""
+msgstr "Theme Variables"
 
 #: amis_admin_theme_editor/model.py:10
 msgid "CSS"
-msgstr ""
+msgstr "CSS"
 
 #: amis_admin_theme_editor/model.py:11
 msgid "Base Theme"
-msgstr ""
+msgstr "Base Theme"
 
